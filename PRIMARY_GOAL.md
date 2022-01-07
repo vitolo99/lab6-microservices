@@ -20,7 +20,7 @@ At this point, the two services `accounts (2222)` and `web` are running and the 
 
 ![Alt text](/img/registrationDashboard.PNG?raw=true "Eureka dashboard")
 
-In order to run a second `accounts` service instance that will use the port 4444 we need to modify the port on the file `aplication.yaml`:
+In order to run a second `accounts` service instance that will use the port 4444 we need to modify the port on the file `application.yaml`:
 
 ![Alt text](/img/cambiosAccount.PNG?raw=true "Changes on Account (application.yaml)")
 
@@ -43,11 +43,7 @@ info from the service `accounts (4444)`:
 
 ![Alt text](/img/4444si.PNG?raw=true "Accounts 4444 info")
 
-When we search accounts by owner at the web now, we obtain this results:
-
-![Alt text](/img/accountsDashboard1.PNG?raw=true "Web accounts info dashboard")
-
-We can retrieve information about the accounts because the registration server still has the service `accounts (4444)` available and can retrieve that info from that service.
+When we search accounts by owner at the web now, we obtain the same results, we can retrieve information about the accounts because the registration server still has the service `accounts (4444)` available and can retrieve that info from that service.
 
 
 
