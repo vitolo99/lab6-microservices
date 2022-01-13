@@ -75,3 +75,4 @@ by a PR so other fellow can try it.
 | 776453 | Jorge Serrano Ibañez | [Report](https://github.com/zgzserrano/lab6-microservices/blob/test/report.md)
 | 757024 | Germán Garcés| [report.md](https://github.com/fntkg/lab6-microservices/blob/work/report.md)     | |       |
 | 721520 | Sergio García-Campero Hernández | [solution.md](https://github.com/SergioGCH/lab6-microservices/blob/test/solution.md)     | |       |
+| 779691 | [Tomás Pelayo](https://github.com/Tomenos18/lab6-microservices)|[Report](https://github.com/Tomenos18/lab6-microservices/blob/test/report.md)| | |
